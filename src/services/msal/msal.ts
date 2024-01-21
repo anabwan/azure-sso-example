@@ -1,6 +1,6 @@
 import { PopupRequest, Configuration, LogLevel } from "@azure/msal-browser";
 
-const CLIENT_ID: string = "57b85f03-efbf-4864-b9ce-40bd6d9268ca";
+const CLIENT_ID: string = "XXXX";
 const REDIRECT_URI: string = "http://localhost:5173/";
 const AUTHORITY: string =
   "https://login.microsoftonline.com/46c98d88-e344-4ed4-8496-4ed7712e255d/";
